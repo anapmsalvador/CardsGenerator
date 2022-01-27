@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+Using Elixir, made a basic app that deals cards
 
 ## Installation
 
